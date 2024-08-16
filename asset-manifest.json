@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ertracker/static/css/main.3f726c8b.css",
+    "main.js": "/ertracker/static/js/main.d3c8eac3.js",
+    "static/js/453.63c4db86.chunk.js": "/ertracker/static/js/453.63c4db86.chunk.js",
+    "index.html": "/ertracker/index.html",
+    "main.3f726c8b.css.map": "/ertracker/static/css/main.3f726c8b.css.map",
+    "main.d3c8eac3.js.map": "/ertracker/static/js/main.d3c8eac3.js.map",
+    "453.63c4db86.chunk.js.map": "/ertracker/static/js/453.63c4db86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f726c8b.css",
+    "static/js/main.d3c8eac3.js"
+  ]
+}
