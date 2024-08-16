@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ERtracker/static/css/main.3f726c8b.css",
-    "main.js": "/ERtracker/static/js/main.ba173109.js",
-    "static/js/453.63c4db86.chunk.js": "/ERtracker/static/js/453.63c4db86.chunk.js",
-    "index.html": "/ERtracker/index.html",
-    "main.3f726c8b.css.map": "/ERtracker/static/css/main.3f726c8b.css.map",
-    "main.ba173109.js.map": "/ERtracker/static/js/main.ba173109.js.map",
-    "453.63c4db86.chunk.js.map": "/ERtracker/static/js/453.63c4db86.chunk.js.map"
+    "main.css": "/ERTracker/static/css/main.3f726c8b.css",
+    "main.js": "/ERTracker/static/js/main.43c582e3.js",
+    "static/js/453.63c4db86.chunk.js": "/ERTracker/static/js/453.63c4db86.chunk.js",
+    "index.html": "/ERTracker/index.html",
+    "main.3f726c8b.css.map": "/ERTracker/static/css/main.3f726c8b.css.map",
+    "main.43c582e3.js.map": "/ERTracker/static/js/main.43c582e3.js.map",
+    "453.63c4db86.chunk.js.map": "/ERTracker/static/js/453.63c4db86.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f726c8b.css",
-    "static/js/main.ba173109.js"
+    "static/js/main.43c582e3.js"
   ]
 }
