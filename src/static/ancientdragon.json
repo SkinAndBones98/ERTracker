@@ -1,0 +1,86 @@
+[
+    {
+        "location": "nepheli",
+        "value": {"default": false}      
+    },
+    {
+        "location": "gostoc",
+        "value": {"default": false}  
+    },
+    {
+        "location": "jerren",
+        "value": {"default": false}  
+    },
+    {
+        "location": "gurranq",
+        "value": {"default": false}  
+    },
+    {
+        "location": "mountaintops skull",
+        "value": {"default": false}  
+    },
+    {
+        "location": "theodorix",
+        "value": {"default": false}  
+    },
+    {
+        "location": "consecrated snowfield night cavalry",
+        "value": {"default": false}  
+    },
+    {
+        "location": "yelough anix",
+        "value": {"default": false}  
+    },
+    {
+        "location": "before haligtree plaza",
+        "value": {"default": false}  
+    },
+    {
+        "location": "after haligtree loretta",
+        "value": {"default": false}  
+    },
+    {
+        "location": "farum azula first dragon",
+        "value": {"default": false}  
+    },
+    {
+        "location": "near dragon lift grace",
+        "value": {"default": false}  
+    },
+    {
+        "location": "farum azula red lightning dragon",
+        "value": {"default": false}  
+    },
+    {
+        "location": "suppressing tower",
+        "value": {"default": false}  
+    },
+    {
+        "location": "ruined lava forge",
+        "value": {"default": false}  
+    },
+    {
+        "location": "ruined forge of starfall past",
+        "value": {"default": false}  
+    },
+    {
+        "location": "taylew ruined forge balcony",
+        "value": {"default": false}  
+    },
+    {
+        "location": "taylew ruined forge altar",
+        "value": {"default": false}  
+    },
+    {
+        "location": "dragon pit magma wyrm",
+        "value": {"default": false}  
+    },
+    {
+        "location": "ancient dragon senessax",
+        "value": {"default": false}  
+    },
+    {
+        "location": "after jagged peak mountainside before third spiritspring",
+        "value": {"default": false}  
+    }
+]

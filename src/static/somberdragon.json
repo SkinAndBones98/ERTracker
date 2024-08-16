@@ -1,0 +1,58 @@
+[
+    {
+        "location": "mohg palace",
+        "value": {"default": false}      
+    },
+    {
+        "location": "anastasia consecrated snowfield",
+        "value": {"default": false}  
+    },
+    {
+        "location": "latenna",
+        "value": {"default": false}  
+    },
+    {
+        "location": "elphael putrid avatar",
+        "value": {"default": false}  
+    },
+    {
+        "location": "elphael chest near finlay",
+        "value": {"default": false}  
+    },
+    {
+        "location": "millicent",
+        "value": {"default": false}  
+    },
+    {
+        "location": "near red lightning dragon",
+        "value": {"default": false}  
+    },
+    {
+        "location": "capital of ash neart gargoyle",
+        "value": {"default": false}  
+    },
+    {
+        "location": "ghostflame dragon scorched plains",
+        "value": {"default": false}  
+    },
+    {
+        "location": "ghostflame dragon cerulean coast",
+        "value": {"default": false}  
+    },
+    {
+        "location": "ghostflame dragon scadu altus",
+        "value": {"default": false}  
+    },
+    {
+        "location": "ancient dragon senessax",
+        "value": {"default": false}  
+    },
+    {
+        "location": "left after second spiritspring after jagged peak mountainside ",
+        "value": {"default": false}  
+    },
+    {
+        "location": "enir ilim",
+        "value": {"default": false}  
+    }
+]

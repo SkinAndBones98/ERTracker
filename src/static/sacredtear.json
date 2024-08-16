@@ -1,0 +1,50 @@
+[
+    {
+        "location": "third church of marika",
+        "value": {"default": false}      
+    },
+    {
+        "location": "callu baptismal church",
+        "value": {"default": false}  
+    },
+    {
+        "location": "church of pilgrimage",
+        "value": {"default": false}  
+    },
+    {
+        "location": "fourth church of marika",
+        "value": {"default": false}  
+    },
+    {
+        "location": "church of irith",
+        "value": {"default": false}  
+    },
+    {
+        "location": "bellum church",
+        "value": {"default": false}  
+    },
+    {
+        "location": "church of inhibition",
+        "value": {"default": false}  
+    },
+    {
+        "location": "church of the plague",
+        "value": {"default": false}  
+    },
+    {
+        "location": "second church of marika",
+        "value": {"default": false}  
+    },
+    {
+        "location": "stormcaller church",
+        "value": {"default": false}  
+    },
+    {
+        "location": "first church of marika",
+        "value": {"default": false}  
+    },
+    {
+        "location": "church of repose",
+        "value": {"default": false}  
+    }
+]

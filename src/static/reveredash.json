@@ -1,0 +1,94 @@
+[
+    {
+        "location": "east of scorched ruins",
+        "value": {"default": false}      
+    },
+    {
+        "location": "abandones ailing village",
+        "value": {"default": false}  
+    },
+    {
+        "location": "northeast of prospect town",
+        "value": {"default": false}  
+    },
+    {
+        "location": "statue just before belurat tower settlement grace (2)",
+        "value": {"default": false}  
+    },
+    {
+        "location": "belurat pot enemy near bridge after rooftops",
+        "value": {"default": false}  
+    },
+    {
+        "location": "belurat statue near big tree with praying enemies",
+        "value": {"default": false}  
+    },
+    {
+        "location": "statue after divine beast boss",
+        "value": {"default": false}  
+    },
+    {
+        "location": "ellac downstream gave",
+        "value": {"default": false}  
+    },
+    {
+        "location": "east of moorth ruins",
+        "value": {"default": false}  
+    },
+    {
+        "location": "bonney village",
+        "value": {"default": false}  
+    },
+    {
+        "location": "shadow keep on top of beast statue 1",
+        "value": {"default": false}  
+    },
+    {
+        "location": "shadow keep on top of second beast statue 2",
+        "value": {"default": false}  
+    },
+    {
+        "location": "near ruins of unte",
+        "value": {"default": false}  
+    },
+    {
+        "location": "village of flies",
+        "value": {"default": false}  
+    },
+    {
+        "location": "near temple town ruins",
+        "value": {"default": false}  
+    },
+    {
+        "location": "pot enemy rauh ruins east",
+        "value": {"default": false}  
+    },
+    {
+        "location": "pot enemy rauh ruins west",
+        "value": {"default": false}  
+    },
+    {
+        "location": "rauh ruins west statue",
+        "value": {"default": false}  
+    },
+    {
+        "location": "fat inquisitor midas manse",
+        "value": {"default": false}  
+    },
+    {
+        "location": "chandelier near second floor chamber grace",
+        "value": {"default": false}  
+    },
+    {
+        "location": "fat inquisitor enir ilim",
+        "value": {"default": false}  
+    },
+    {
+        "location": "statue with flies near first rise grace (2)",
+        "value": {"default": false}  
+    },
+    {
+        "location": "tower with gravebird after spiral rise",
+        "value": {"default": false}  
+    }
+]

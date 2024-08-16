@@ -1,0 +1,10 @@
+[
+    {
+        "location": "high road cross",
+        "value": {"default": false}    
+    },
+    {
+        "location": "three path cross",
+        "value": {"default": false}
+    }
+]

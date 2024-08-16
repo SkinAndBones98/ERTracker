@@ -1,0 +1,10 @@
+[
+    {
+        "location": "stormhill",
+        "value": {"default": false}   
+    },
+    {
+        "location": "stormhill (roderika)",
+        "value": {"default": false}
+    }
+]
