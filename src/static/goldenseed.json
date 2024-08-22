@@ -1,10 +1,162 @@
 [
     {
-        "location": "stormhill",
+        "location": "stormhill phantom tree",
         "value": {"default": false}   
     },
     {
-        "location": "stormhill (roderika)",
+        "location": "stormhill roderika quest",
+        "value": {"default": false}
+    },
+    {
+        "location": "fort haight phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "castle morne phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "kenneth haight drop",
+        "value": {"default": false}
+    },
+    {
+        "location": "fringefolk grave boss drop",
+        "value": {"default": false}
+    },
+    {
+        "location": "stormveil phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "stormveil ulcerated tree spirit drop",
+        "value": {"default": false}
+    },
+    {
+        "location": "bestial sanctum phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "redmane castle phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "war dead catacombs boss drop",
+        "value": {"default": false}
+    },
+    {
+        "location": "academy gate town phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "raya lucaria courtyard phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "caria manor phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "main academy gate phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "ravine veiled village phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "seethewater river phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "southeast of windmill village phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "altus highway junction phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "altus minor erdtree phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "erdtree gazing hill phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "outer wall phantom tree (2)",
+        "value": {"default": false}
+    },
+    {
+        "location": "capital outskirts after gargoyle phantom tree (2)",
+        "value": {"default": false}
+    },
+    {
+        "location": "capital outskirts ulcerated tree spirit drop",
+        "value": {"default": false}
+    },
+    {
+        "location": "avenue balcony ulcerated tree spirit drop",
+        "value": {"default": false}
+    },
+    {
+        "location": "west capital ramparts phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "volcano manor phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "worshipper's woods phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "after moon of nokstella phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "grand cloister putrid tree spirit drop",
+        "value": {"default": false}
+    },
+    {
+        "location": "mohgwyn palace blood lake phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "forbidden lands phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "northeast of mountaintops minor erdtree phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "flame peak phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "giant mountaintop catacombs boss drop",
+        "value": {"default": false}
+    },
+    {
+        "location": "consecrated snowfield phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "ordina phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "haligtree putrid tree spirit drop",
+        "value": {"default": false}
+    },
+    {
+        "location": "dragon temple lift phantom tree",
+        "value": {"default": false}
+    },
+    {
+        "location": "dragon temple rooftop phantom tree",
         "value": {"default": false}
     }
 ]

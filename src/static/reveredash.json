@@ -1,70 +1,70 @@
 [
     {
-        "location": "east of scorched ruins",
+        "location": "east of scorched ruins statue",
         "value": {"default": false}      
     },
     {
-        "location": "abandones ailing village",
+        "location": "abandoned ailing village statue",
         "value": {"default": false}  
     },
     {
-        "location": "northeast of prospect town",
+        "location": "northeast of prospect town statue",
         "value": {"default": false}  
     },
     {
-        "location": "statue just before belurat tower settlement grace (2)",
+        "location": "belurat tower settlement entrance statue (2)",
         "value": {"default": false}  
     },
     {
-        "location": "belurat pot enemy near bridge after rooftops",
+        "location": "belurat bridge pot enemy",
         "value": {"default": false}  
     },
     {
-        "location": "belurat statue near big tree with praying enemies",
+        "location": "belurat giant tree statue",
         "value": {"default": false}  
     },
     {
-        "location": "statue after divine beast boss",
+        "location": "after divine beast statue",
         "value": {"default": false}  
     },
     {
-        "location": "ellac downstream gave",
+        "location": "ellac downstream grace statue",
         "value": {"default": false}  
     },
     {
-        "location": "east of moorth ruins",
+        "location": "east of moorth ruins statue",
         "value": {"default": false}  
     },
     {
-        "location": "bonney village",
+        "location": "bonney village statue",
         "value": {"default": false}  
     },
     {
-        "location": "shadow keep on top of beast statue 1",
+        "location": "storehouse first floor beast",
         "value": {"default": false}  
     },
     {
-        "location": "shadow keep on top of second beast statue 2",
+        "location": "storehouse seventh floor beast",
         "value": {"default": false}  
     },
     {
-        "location": "near ruins of unte",
+        "location": "near ruins of unte statue",
         "value": {"default": false}  
     },
     {
-        "location": "village of flies",
+        "location": "village of flies statue",
         "value": {"default": false}  
     },
     {
-        "location": "near temple town ruins",
+        "location": "near temple town ruins statue",
         "value": {"default": false}  
     },
     {
-        "location": "pot enemy rauh ruins east",
+        "location": "rauh ruins east pot enemy",
         "value": {"default": false}  
     },
     {
-        "location": "pot enemy rauh ruins west",
+        "location": "rauh ruins west pot enemy",
         "value": {"default": false}  
     },
     {
@@ -72,23 +72,23 @@
         "value": {"default": false}  
     },
     {
-        "location": "fat inquisitor midas manse",
+        "location": "midas manse fat inquisitor drop",
         "value": {"default": false}  
     },
     {
-        "location": "chandelier near second floor chamber grace",
+        "location": "second floor chamber grace",
         "value": {"default": false}  
     },
     {
-        "location": "fat inquisitor enir ilim",
+        "location": "enir ilim fat inquisitor drop",
         "value": {"default": false}  
     },
     {
-        "location": "statue with flies near first rise grace (2)",
+        "location": "after first rise grace statue (2)",
         "value": {"default": false}  
     },
     {
-        "location": "tower with gravebird after spiral rise",
+        "location": "after spiral rise grace statue",
         "value": {"default": false}  
     }
 ]

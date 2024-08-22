@@ -1,54 +1,54 @@
 [
     {
-        "location": "mohg palace",
+        "location": "mohg palace chest",
         "value": {"default": false}      
     },
     {
-        "location": "anastasia consecrated snowfield",
+        "location": "anastasia consecrated snowfield drop",
         "value": {"default": false}  
     },
     {
-        "location": "latenna",
+        "location": "latenna quest",
         "value": {"default": false}  
     },
     {
-        "location": "elphael putrid avatar",
+        "location": "near elphael putrid avatar",
         "value": {"default": false}  
     },
     {
-        "location": "elphael chest near finlay",
+        "location": "elphael chest",
         "value": {"default": false}  
     },
     {
-        "location": "millicent",
+        "location": "millicent quest",
         "value": {"default": false}  
     },
     {
-        "location": "near red lightning dragon",
+        "location": "near farum azula stationary dragon",
         "value": {"default": false}  
     },
     {
-        "location": "capital of ash neart gargoyle",
+        "location": "near capital of ash gargoyle",
         "value": {"default": false}  
     },
     {
-        "location": "ghostflame dragon scorched plains",
+        "location": "scorched plains ghostflame dragon drop",
         "value": {"default": false}  
     },
     {
-        "location": "ghostflame dragon cerulean coast",
+        "location": "cerulean coast ghostflame dragon drop",
         "value": {"default": false}  
     },
     {
-        "location": "ghostflame dragon scadu altus",
+        "location": "scadu altus ghostflame dragon drop",
         "value": {"default": false}  
     },
     {
-        "location": "ancient dragon senessax",
+        "location": "ancient dragon senessax drop",
         "value": {"default": false}  
     },
     {
-        "location": "left after second spiritspring after jagged peak mountainside ",
+        "location": "jagged peak mountainside",
         "value": {"default": false}  
     },
     {

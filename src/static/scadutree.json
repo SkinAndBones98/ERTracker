@@ -1,7 +1,120 @@
 [
     {
+        "location": "three path cross",
+        "value": {"default": false}
+    },
+    {
+        "location": "east of scorched ruins pot enemy",
+        "value": {"default": false}
+    },
+    {
+        "location": "castle front statue",
+        "value": {"default": false}
+    },
+    {
+        "location": "church of consolation (2)",
+        "value": {"default": false}
+    },
+    {
+        "location": "main gate cross",
+        "value": {"default": false}
+    },
+    {
+        "location": "belurat hidden room cross",
+        "value": {"default": false}
+    },
+    {
+        "location": "cliffroad terminus pot enemy",
+        "value": {"default": false}
+    },
+    {
+        "location": "castle ensis checkpoint cross",
+        "value": {"default": false}
+    },
+    {
+        "location": "pillar path cross",
+        "value": {"default": false}
+    },
+    {
         "location": "high road cross",
-        "value": {"default": false}    
+        "value": {"default": false}
+    },
+    {
+        "location": "church of the crusade (2)",
+        "value": {"default": false}
+    },
+    {
+        "location": "before shadow keep statue",
+        "value": {"default": false}
+    },
+    {
+        "location": "moorth ruins cross",
+        "value": {"default": false}
+    },
+    {
+        "location": "moorth ruins statue",
+        "value": {"default": false}
+    },
+    {
+        "location": "moorth ruins pot enemy",
+        "value": {"default": false}
+    },
+    {
+        "location": "scaudview cross",
+        "value": {"default": false}
+    },
+    {
+        "location": "northeast of moorth ruins statue",
+        "value": {"default": false}
+    },
+    {
+        "location": "temple town ruins",
+        "value": {"default": false}
+    },
+    {
+        "location": "three path cross",
+        "value": {"default": false}
+    },
+    {
+        "location": "three path cross",
+        "value": {"default": false}
+    },
+    {
+        "location": "three path cross",
+        "value": {"default": false}
+    },
+    {
+        "location": "three path cross",
+        "value": {"default": false}
+    },
+    {
+        "location": "three path cross",
+        "value": {"default": false}
+    },
+    {
+        "location": "shadowkeep hippo (2)",
+        "value": {"default": false}
+    },
+    {
+        "location": "storehouse fourth floor cross",
+        "value": {"default": false}
+    },
+    
+    {
+        "location": "three path cross",
+        "value": {"default": false}
+    },
+    {
+        "location": "three path cross",
+        "value": {"default": false}
+    },
+    {
+        "location": "three path cross",
+        "value": {"default": false}
+    },
+    {
+        "location": "three path cross",
+        "value": {"default": false}
     },
     {
         "location": "three path cross",

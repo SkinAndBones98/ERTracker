@@ -1,34 +1,34 @@
 [
     {
-        "location": "nepheli",
+        "location": "nepheli quest",
         "value": {"default": false}      
     },
     {
-        "location": "gostoc",
+        "location": "gostoc quest",
         "value": {"default": false}  
     },
     {
-        "location": "jerren",
+        "location": "jerren quest",
         "value": {"default": false}  
     },
     {
-        "location": "gurranq",
+        "location": "gurranq quest",
         "value": {"default": false}  
     },
     {
-        "location": "mountaintops skull",
+        "location": "near church of repose",
         "value": {"default": false}  
     },
     {
-        "location": "theodorix",
+        "location": "theodorix lair",
         "value": {"default": false}  
     },
     {
-        "location": "consecrated snowfield night cavalry",
+        "location": "consecrated snowfield night cavalry drop",
         "value": {"default": false}  
     },
     {
-        "location": "yelough anix",
+        "location": "yelough anix tunnel",
         "value": {"default": false}  
     },
     {
@@ -36,11 +36,11 @@
         "value": {"default": false}  
     },
     {
-        "location": "after haligtree loretta",
+        "location": "after haligtree loretta chest",
         "value": {"default": false}  
     },
     {
-        "location": "farum azula first dragon",
+        "location": "farum azula first dragon drop",
         "value": {"default": false}  
     },
     {
@@ -48,19 +48,19 @@
         "value": {"default": false}  
     },
     {
-        "location": "farum azula red lightning dragon",
+        "location": "farum azula stationary dragon drop",
         "value": {"default": false}  
     },
     {
-        "location": "suppressing tower",
+        "location": "suppressing tower chest",
         "value": {"default": false}  
     },
     {
-        "location": "ruined lava forge",
+        "location": "ruined lava forge altar",
         "value": {"default": false}  
     },
     {
-        "location": "ruined forge of starfall past",
+        "location": "ruined forge of starfall past altar",
         "value": {"default": false}  
     },
     {
@@ -72,15 +72,15 @@
         "value": {"default": false}  
     },
     {
-        "location": "dragon pit magma wyrm",
+        "location": "dragon pit magma wyrm drop",
         "value": {"default": false}  
     },
     {
-        "location": "ancient dragon senessax",
+        "location": "ancient dragon senessax drop",
         "value": {"default": false}  
     },
     {
-        "location": "after jagged peak mountainside before third spiritspring",
+        "location": "jagged peak mountainside",
         "value": {"default": false}  
     }
 ]
